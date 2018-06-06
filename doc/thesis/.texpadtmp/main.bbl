@@ -1,0 +1,179 @@
+\begin{thebibliography}{10}
+
+\bibitem{Fang2012}
+Xi~Fang, Satyajayant Misra, Guoliang Xue, and Dejun Yang,
+\newblock ``{Smart Grid — The New and Improved Power Grid: A Survey}'',
+\newblock {\em IEEE Communications Surveys {\&} Tutorials}, vol. 14, no. 4, pp.
+  944--980, 2012.
+
+\bibitem{Gao2012}
+Jingcheng Gao, Yang Xiao, Jing Liu, Wei Liang, and C.L.~Philip Chen,
+\newblock ``{A survey of communication/networking in Smart Grids}'',
+\newblock {\em Future Generation Computer Systems}, vol. 28, no. 2, pp.
+  391--404, feb 2012.
+
+\bibitem{Chertkov2017}
+Michael Chertkov, Vladimir~Y Chernyak, and Deepjyoti Deka,
+\newblock ``{Ensemble Control of Cycling Energy Loads: Markov Decision
+  Approach}'',
+\newblock jan 2017.
+
+\bibitem{Badanidiyuru2013}
+Ashwinkumar Badanidiyuru, Robert Kleinberg, and Aleksandrs Slivkins,
+\newblock ``{Bandits with Knapsacks}'',
+\newblock in {\em 2013 IEEE 54th Annual Symposium on Foundations of Computer
+  Science}. oct 2013, number May 2013, pp. 207--216, IEEE.
+
+\bibitem{Agrawal2015}
+Shipra Agrawal and Nikhil~R. Devanur,
+\newblock ``{Linear Contextual Bandits with Knapsacks}'',
+\newblock jul 2015, number Nips.
+
+\bibitem{Alizadeh2012}
+Mahnoosh Alizadeh, Xiao Li, Zhifang Wang, Anna Scaglione, and Ronald Melton,
+\newblock ``{Demand-Side Management in the Smart Grid: Information Processing
+  for the Power Switch}'',
+\newblock {\em IEEE Signal Processing Magazine}, vol. 29, no. 5, pp. 55--67,
+  sep 2012.
+
+\bibitem{Palensky2011}
+Peter Palensky and Dietmar Dietrich,
+\newblock ``{Demand Side Management: Demand Response, Intelligent Energy
+  Systems, and Smart Loads}'',
+\newblock {\em IEEE Transactions on Industrial Informatics}, vol. 7, no. 3, pp.
+  381--388, aug 2011.
+
+\bibitem{DepartmentofEnergyUSA2006}
+{Department of Energy USA},
+\newblock ``{Benefits of Demand Response in Electricity Markets and
+  Recommendations for Achieving them}'',
+\newblock Tech. {R}ep. February, 2006.
+
+\bibitem{Vardakas2015}
+John~S. Vardakas, Nizar Zorba, and Christos~V. Verikoukis,
+\newblock ``{A Survey on Demand Response Programs in Smart Grids: Pricing
+  Methods and Optimization Algorithms}'',
+\newblock {\em IEEE Communications Surveys and Tutorials}, vol. 17, no. 1, pp.
+  152--178, 2015.
+
+\bibitem{Shishlov2016}
+Igor Shishlov, Romain Morel, and Valentin Bellassen,
+\newblock ``{Compliance of the Parties to the Kyoto Protocol in the first
+  commitment period}'',
+\newblock {\em Climate Policy}, vol. 16, no. 6, pp. 768--782, aug 2016.
+
+\bibitem{UnitedNations/FrameworkConventiononClimateChange2015}
+{United Nations/Framework Convention on Climate Change},
+\newblock ``{Paris Agreement}'',
+\newblock {\em 21st Conference of the Parties}, p.~3, 2015.
+
+\bibitem{Santacana2010}
+Enrique Santacana, Gary Rackliffe, Le~Tang, and Xiaoming Feng,
+\newblock ``{Getting Smart}'',
+\newblock {\em IEEE Power and Energy Magazine}, vol. 8, no. 2, pp. 41--48, mar
+  2010.
+
+\bibitem{Medina2010}
+Jose Medina, Nelson Muller, and Ilya Roytelman,
+\newblock ``{Demand Response and Distribution Grid Operations: Opportunities
+  and Challenges}'',
+\newblock {\em IEEE Transactions on Smart Grid}, vol. 1, no. 2, pp. 193--198,
+  sep 2010.
+
+\bibitem{Zhou2012}
+Liang Zhou, Joel J P~C Rodrigues, and Lu{\'{i}}s~M. Oliveira,
+\newblock ``{QoE-driven power scheduling in smart grid: Architecture, strategy,
+  and methodology}'',
+\newblock {\em IEEE Communications Magazine}, vol. 50, no. 5, pp. 136--141, may
+  2012.
+
+\bibitem{Hao2015}
+He~Hao, Borhan~M. Sanandaji, Kameshwar Poolla, and Tyrone~L. Vincent,
+\newblock ``{Aggregate Flexibility of Thermostatically Controlled Loads}'',
+\newblock {\em IEEE Transactions on Power Systems}, vol. 30, no. 1, pp.
+  189--198, jan 2015.
+
+\bibitem{Yano2012}
+Hitoshi Yano, Koji Kudo, Takashi Ikegami, Hiroto Iguchi, Kazuto Kataoka, and
+  Kazuhiko Ogimoto,
+\newblock ``{A novel charging-time control method for numerous EVs based on a
+  period weighted prescheduling for power supply and demand balancing}'',
+\newblock in {\em 2012 IEEE PES Innovative Smart Grid Technologies (ISGT)}. jan
+  2012, pp. 1--6, IEEE.
+
+\bibitem{Motegi2007}
+Naoya Motegi, M.A. Piette, D.S. Watson, Sila Kiliccote, and P.~Xu,
+\newblock ``{Introduction to Commercial Building Control Strategies and
+  Techniques for Demand Response -- Appendices}'',
+\newblock Tech. {R}ep. 500, Lawrence Berkeley National Laboratory (LBNL),
+  Berkeley, CA (United States), may 2007.
+
+\bibitem{Szepesvari2010}
+Csaba Szepesv{\'{a}}ri,
+\newblock ``{Algorithms for Reinforcement Learning}'',
+\newblock {\em Synthesis Lectures on Artificial Intelligence and Machine
+  Learning}, vol. 4, no. 1, pp. 1--103, jan 2010.
+
+\bibitem{Auer2002}
+Peter Auer, Nicol{\`{o}} Cesa-Bianchi, and Paul Fischer,
+\newblock ``{Finite-time Analysis of the Multiarmed Bandit Problem}'',
+\newblock {\em Machine Learning}, vol. 47, no. 2/3, pp. 235--256, 2002.
+
+\bibitem{Lai1985}
+T.~L. Lai and Herbert Robbins,
+\newblock ``{Asymptotically efficient adaptive allocation rules}'',
+\newblock {\em Advances in Applied Mathematics}, vol. 6, no. 1, pp. 4--22,
+  1985.
+
+\bibitem{Audibert2009}
+Jean~Yves Audibert, R{\'{e}}mi Munos, and Csaba Szepesv{\'{a}}ri,
+\newblock ``{Exploration-exploitation tradeoff using variance estimates in
+  multi-armed bandits}'',
+\newblock {\em Theoretical Computer Science}, vol. 410, no. 19, pp. 1876--1902,
+  2009.
+
+\bibitem{Li2010}
+Lihong Li, Wei Chu, John Langford, and Robert~E. Schapire,
+\newblock ``{A contextual-bandit approach to personalized news article
+  recommendation}'',
+\newblock in {\em Proceedings of the 19th international conference on World
+  wide web - WWW '10}, New York, New York, USA, 2010, p. 661, ACM Press.
+
+\bibitem{Abbasi-Yadkori2011}
+Yasin Abbasi-Yadkori, David Pal, and Csaba Szepesv{\'{a}}ri,
+\newblock ``{Improved Algorithms for Linear Stochastic Bandits}'',
+\newblock {\em Neural Information Processing Systems}, pp. 1--19, 2011.
+
+\bibitem{Auer2003}
+Peter Auer,
+\newblock ``{Using Confidence Bounds for Exploitation-Exploration
+  Trade-offs}'',
+\newblock {\em Journal of Machine Learning Research}, vol. 3, no. 3, pp.
+  397--422, 2003.
+
+\bibitem{Agrawal2013}
+Shipra Agrawal and Navin Goyal,
+\newblock ``{Thompson Sampling for Contextual Bandits with Linear Payoffs}'',
+\newblock {\em Proceedings of the 30th International Conference on Machine
+  Learning, Atlanta, Georgia, USA}, vol. 28, sep 2013.
+
+\bibitem{Aalami2010}
+H.A. Aalami, M.~Parsa Moghaddam, and G.R. Yousefi,
+\newblock ``{Modeling and prioritizing demand response programs in power
+  markets}'',
+\newblock {\em Electric Power Systems Research}, vol. 80, no. 4, pp. 426--435,
+  apr 2010.
+
+\bibitem{Lisovich2010}
+Mikhail~A. Lisovich, Deirdre~K. Mulligan, and Stephen~B. Wicker,
+\newblock ``{Inferring Personal Information from Demand-Response Systems}'',
+\newblock {\em IEEE Security {\&} Privacy Magazine}, vol. 8, no. 1, pp. 11--20,
+  jan 2010.
+
+\bibitem{Aalami2010b}
+H.A. Aalami, M.~Parsa Moghaddam, and G.R. Yousefi,
+\newblock ``{Demand response modeling considering Interruptible/Curtailable
+  loads and capacity market programs}'',
+\newblock {\em Applied Energy}, vol. 87, no. 1, pp. 243--250, jan 2010.
+
+\end{thebibliography}

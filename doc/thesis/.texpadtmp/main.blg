@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.aux
+A level-1 auxiliary file: content/titlepage.aux
+A level-1 auxiliary file: content/introduction.aux
+A level-1 auxiliary file: content/solution.aux
+A level-1 auxiliary file: content/experiments.aux
+A level-1 auxiliary file: content/conclusion.aux
+The style file: ieeepes.bst
+Database file #1: ../bibliography/bandits.bib
+Database file #2: ../bibliography/demand-response.bib
+Repeated entry---line 855 of file ../bibliography/demand-response.bib
+ : @inproceedings{Li2010
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 875 of file ../bibliography/demand-response.bib
+ : @article{Audibert2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 891 of file ../bibliography/demand-response.bib
+ : @article{Lai1985
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 906 of file ../bibliography/demand-response.bib
+ : @article{Auer2002
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 927 of file ../bibliography/demand-response.bib
+ : @article{Szepesvari2010
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1012 of file ../bibliography/demand-response.bib
+ : @article{Vardakas2015
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Chertkov2017
+Warning--there's a number but no series in Badanidiyuru2013
+Warning--empty booktitle in Agrawal2015
+Warning--there's a number but no series in Agrawal2015
+Warning--empty institution in DepartmentofEnergyUSA2006
+You've used 28 entries,
+            1821 wiz_defined-function locations,
+            664 strings with 9468 characters,
+and the built_in function-call counts, 6789 in all, are:
+= -- 623
+> -- 307
+< -- 9
++ -- 113
+- -- 85
+* -- 665
+:= -- 1083
+add.period$ -- 30
+call.type$ -- 28
+change.case$ -- 28
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 264
+empty$ -- 620
+format.name$ -- 85
+if$ -- 1469
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 26
+newline$ -- 143
+num.names$ -- 28
+pop$ -- 52
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 80
+stack$ -- 0
+substring$ -- 498
+swap$ -- 60
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 75
+width$ -- 30
+write$ -- 312
+(There were 6 error messages)

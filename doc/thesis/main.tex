@@ -1,0 +1,56 @@
+\documentclass[a4paper, 14pt]{extreport}
+
+%% Correct indentation
+\usepackage{geometry}
+\geometry{a4paper,
+ left=30mm,
+ right=30mm,
+ top=24mm,
+ bottom=24mm}
+ 
+\setlength{\marginparwidth}{25mm}
+ 
+%% Path to graphic matherials
+\usepackage{graphicx, url}
+\graphicspath{figures/}
+
+%% My library with adhocs and useful tools
+\input{tools/shared}
+
+%% Not used, but I left it here for copyright purposes
+\author{Aleksei Sholokhov}
+\title{The Bachelor Thesis}
+
+\begin{document}
+
+%% Include title page for Russian bachelor thesis
+\selectlanguage{russian}
+\include{content/titlepage}
+\clearpage
+
+\selectlanguage{english}
+
+%% Include table of contents
+\newpage
+\tableofcontents
+\listoftodos
+\newpage
+
+%% Chapter with introductions and overviews
+\include{content/introduction}
+
+%% Chapter with proposed solution and algorithms description
+\include{content/solution}
+
+%% Numerical Experiments
+\include{content/experiments}
+
+%% Conclusion
+\include{content/conclusion}
+
+%% Bibliography
+\bibliographystyle{ieeepes}
+\bibliography{bibliography/bandits, bibliography/demand-response}
+
+\end{document}
+
