@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.2)  6 JUN 2018 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.2)  9 JUN 2018 15:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -995,7 +995,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Cskip=\skip51
 )
 \c@@todonotes@numberoftodonotes=\count154
-))) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/solution.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/experiments.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/conclusion.aux))
+))) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/solution.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/experiments.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1082,27 +1082,21 @@ LaTeX Font Warning: Font shape `T2A/ptm/m/sc' undefined
 LaTeX Font Warning: Font shape `T2A/ptm/bx/n' undefined
 (Font)              using `T2A/ptm/m/n' instead on input line 16.
 
-LaTeX Font Info:    Try loading font information for U+lasy on input line 28.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 29.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <35.83> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
- (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.toc
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-)
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -1110,7 +1104,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 
 
 
-] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.tdo)
+] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.tdo)
 \tf@tdo=\write5
 \openout5 = `main.tdo'.
 
@@ -1120,85 +1114,129 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 \openout2 = `content/introduction.aux'.
 
  (./content/introduction.tex
-Chapter 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <29.86> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 [3
 
 
-] (./content/DR_overview.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 6.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+]) [4]
+\openout2 = `content/problem_statement.aux'.
 
-Overfull \hbox (2.71262pt too wide) in paragraph at lines 6--7
-[]\OT1/ptm/m/n/14.4 Reduction of the to-tal en-ergy con-sump-tion both on de-mand and trans-
+ (./content/problem_statement.tex
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+[5
+
+
+
+]
+Overfull \hbox (37.5133pt too wide) in paragraph at lines 33--35
+\T2A/ptm/bx/n/14.4  ак по-ка-за-но в [[]], эта оп-ти-ми-за-ци-он-на€ за-да-ча ре-ша-ет-с€ EM-алгоритмом. 
  []
 
-[4]
-
-LaTeX Warning: Marginpar on page 5 moved.
-
-
-LaTeX Warning: Marginpar on page 5 moved.
-
-
-LaTeX Warning: Marginpar on page 5 moved.
-
-) (./content/contextual_bandits_overview.tex [5]) (./content/bandits_in_DR_overview.tex [6]
-Overfull \hbox (25.66875pt too wide) in paragraph at lines 1--1
-[]\OT1/ptm/b/n/20.74 Reinforcement Learn-ing in Demand-Response 
+[6]
+Overfull \hbox (9.8388pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 ^^L[]\OT1/cmr/m/n/14.4 ][]$ \T2A/ptm/bx/n/14.4 и $\OML/cmm/m/it/14.4 [] \OT1/cmr/m/n/14.4 = [\OML/cmm/m/it/14.4 []\OT1/cmr/m/n/14.4 ][]$ \T2A/ptm/bx/n/14.4 в смыс-ле ди-вир-ген-ции  ульбака-Ћейблера[[]]: 
  []
 
-)) [7]
+
+Overfull \hbox (7.6709pt too wide) in paragraph at lines 54--55
+[]\T2A/ptm/bx/n/14.4 –егул€ризатор де-кор-ре-ли-ро-ва-ни€ ми-ни-ми-зи-ру-ет ко-ва-ри-а-ции меж-
+ []
+
+[7]
+Overfull \hbox (1.502pt too wide) in paragraph at lines 66--67
+[]\T2A/ptm/bx/n/14.4 Ѕудем мо-де-ли-ро-вать рас-пре-де-ле-ние то-ке-нов по те-мам $\OML/cmm/m/it/14.4 l$\T2A/ptm/bx/n/14.4 -того уров-
+ []
+
+) [8]
 \openout2 = `content/solution.aux'.
 
  (./content/solution.tex
-Chapter 2.
-[8
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+[9
 
 
 
-] [9] [10]
-Overfull \hbox (12.77916pt too wide) in paragraph at lines 92--93
- \OT1/ptm/b/n/14.4 The Ban-dit[] \OT1/ptm/m/n/14.4 The above men-tioned arm fea-ture vec-tors (a.k.a. arm-contexts)
+]
+
+LaTeX Warning: Citation `Aalami2010' on page 10 undefined on input line 33.
+
+
+LaTeX Warning: Citation `Vardakas2015' on page 10 undefined on input line 33.
+
+
+LaTeX Warning: Citation `Lisovich2010' on page 10 undefined on input line 33.
+
+
+Overfull \hbox (2.46486pt too wide) in paragraph at lines 33--34
+\T2A/ptm/bx/n/14.4 the aggregator is forbidden to observe exact loads accepting a curtailment
  []
 
-[11]
+
+LaTeX Warning: Citation `Aalami2010b' on page 10 undefined on input line 36.
+
+
+Overfull \hbox (14.19485pt too wide) in paragraph at lines 36--37
+\T2A/ptm/bx/n/14.4 curtailment hours to avoid user disturbance (typically 200 hours/year
+ []
+
+
+LaTeX Warning: Citation `Badanidiyuru2013' on page 10 undefined on input line 48.
+
+[10]
+
+LaTeX Warning: Citation `Badanidiyuru2013' on page 11 undefined on input line 71.
+
+
+Overfull \hbox (8.45058pt too wide) in paragraph at lines 72--73
+[]\T2A/ptm/bx/n/14.4 Variables $\OML/cmm/m/it/14.4 k\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 )$ \T2A/ptm/bx/n/14.4 are unobservable, hence we can only ensure thresholds
+ []
+
+[11] [12]
+
+LaTeX Warning: Citation `Badanidiyuru2013' on page 13 undefined on input line 138.
+
+
+LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
+(Font)              using `T2A/ptm/m/n' instead on input line 138.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
 [] []$\OML/cmm/m/it/14.4 i \OT1/cmr/m/n/14.4 := [] [][] \OMS/cmsy/m/n/14.4 L[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 s\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OMS/cmsy/m/n/14.4 j\OML/cmm/m/it/14.4 i\OT1/cmr/m/n/14.4 )) :=
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 166--167
+Underfull \hbox (badness 2735) in paragraph at lines 166--167
 [] []$\OML/cmm/m/it/14.4 n\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 ) = [] [][] \OMS/cmsy/m/n/14.4 k\OML/cmm/m/it/14.4 A\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 )\OML/cmm/m/it/14.4 n\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 ^^@ \OML/cmm/m/it/14.4 S\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 )\OMS/cmsy/m/n/14.4 k[]\OML/cmm/m/it/14.4 ;  s:t: [][] n[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 ) =
  []
 
-[12] [13]
+
+Overfull \hbox (12.88885pt too wide) in paragraph at lines 178--179
+[]\T2A/ptm/bx/n/14.4 One may notice that in 1[] the greedy policy was used, and no exploration
+ []
+
+[13] [14]
 Overfull \hbox (3.1864pt too wide) in paragraph at lines 187--187
 [] 
  []
 
 
-Overfull \hbox (133.47453pt too wide) in paragraph at lines 230--231
+Overfull \hbox (132.29651pt too wide) in paragraph at lines 230--231
 [] []$\OT1/cmr/m/n/14.4 
 [](\OML/cmm/m/it/14.4 t\OT1/cmr/m/n/14.4 ) := [] [][] [][] =$[] 
  []
 
 
-LaTeX Warning: Float too large for page by 91.82475pt on input line 245.
+LaTeX Warning: Float too large for page by 91.22482pt on input line 245.
 
-) [14] [15]
+
+LaTeX Warning: Citation `Badanidiyuru2013' on page 15 undefined on input line 248.
+
+) [15] [16]
 \openout2 = `content/experiments.aux'.
 
  (./content/experiments.tex
-Chapter 3.
-) [16
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+) [17
 
 
 
@@ -1206,45 +1244,100 @@ Chapter 3.
 \openout2 = `content/conclusion.aux'.
 
  (./content/conclusion.tex
-Chapter 4.
-) [17
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+) [18
 
 
 
-] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.bbl
-Underfull \hbox (badness 1371) in paragraph at lines 22--26
-[]\OT1/ptm/m/n/14.4 Ashwinkumar Badani-diyuru, Robert Klein-berg, and Alek-san-drs
+] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.bbl
+Underfull \hbox (badness 2012) in paragraph at lines 9--14
+[]\T2A/ptm/m/it/14.4 T. Hoffman,  ``Probabilistic latent semantic indexing'',  in
  []
 
-[18
 
-
-] [19]
-Underfull \hbox (badness 6157) in paragraph at lines 129--134
-[]\OT1/ptm/m/n/14.4 Jean Yves Au-dib-ert, R[]emi Munos, and Csaba Szepesv[]ari,
+Underfull \hbox (badness 2103) in paragraph at lines 9--14
+\T2A/ptm/m/it/14.4 Proceedings of the 22nd Annual International ACM SIGIR
  []
 
-[20]) [21] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/solution.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/experiments.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/content/conclusion.aux))
+
+Underfull \hbox (badness 1616) in paragraph at lines 22--25
+[]\T2A/ptm/m/it/14.4 Michal Rosen-Zvi, Thomas L. Griffiths, Mark Steyvers, and
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 22--25
+\T2A/ptm/m/it/14.4 Padhraic Smyth,  ``The author-topic model for authors and
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 27--32
+\T2A/ptm/m/it/14.4 ``Modeling general and specific aspects of documents with a
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 41--47
+[]\T2A/ptm/m/it/14.4 Konstantin Vorontsov, Oleksandr Frei, Murat Apishev, Peter
+ []
+
+[19
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[]\T2A/ptm/m/it/14.4 Konstantin Vorontsov and Anna Potapenko,  ``Additive
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 65--70
+[]\T2A/ptm/m/it/14.4 Konstantin Vorontsov and Anna Potapenko,  ``Tutorial on
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 72--76
+\T2A/ptm/m/it/14.4 ``Hierarchical topic models and the nested chinese restaurant
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 90--94
+[]\T2A/ptm/m/it/14.4 Chi Wang, Jialu Liu, Nihit Desai, Marina Danilevsky, and
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 96--100
+\T2A/ptm/m/it/14.4 A system for mining and exploring topical hierarchies of
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 109--115
+[]\T2A/ptm/m/it/14.4 Konstantin Vorontsov, Oleksandr Frei, Murat Apishev, Peter
+ []
+
+[20]
+Underfull \hbox (badness 1776) in paragraph at lines 117--122
+[]\T2A/ptm/m/it/14.4 Oleksandr Frei and Murat Apishev,  ``Parallel non-blocking
+ []
+
+) [21] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/solution.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/experiments.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 16063 strings out of 492995
- 300559 string characters out of 6132705
- 480289 words of memory out of 5000000
- 19179 multiletter control sequences out of 15000+600000
- 23455 words of font info for 51 fonts, out of 8000000 for 9000
+ 15924 strings out of 492995
+ 298483 string characters out of 6132705
+ 471495 words of memory out of 5000000
+ 19051 multiletter control sequences out of 15000+600000
+ 12208 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,22n,78p,1308b,714s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.pdf (22 pages, 207447 bytes).
+ 66i,22n,56p,1738b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2986.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm3583.pfb>
+Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (22 pages, 230669 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

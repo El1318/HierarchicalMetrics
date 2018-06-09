@@ -1,82 +1,66 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/doc/thesis/.texpadtmp/main.aux
+The top-level auxiliary file: /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux
 A level-1 auxiliary file: content/titlepage.aux
 A level-1 auxiliary file: content/introduction.aux
+A level-1 auxiliary file: content/problem_statement.aux
 A level-1 auxiliary file: content/solution.aux
 A level-1 auxiliary file: content/experiments.aux
 A level-1 auxiliary file: content/conclusion.aux
 The style file: ieeepes.bst
-Database file #1: ../bibliography/bandits.bib
-Database file #2: ../bibliography/demand-response.bib
-Repeated entry---line 855 of file ../bibliography/demand-response.bib
- : @inproceedings{Li2010
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 875 of file ../bibliography/demand-response.bib
- : @article{Audibert2009
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 891 of file ../bibliography/demand-response.bib
- : @article{Lai1985
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 906 of file ../bibliography/demand-response.bib
- : @article{Auer2002
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 927 of file ../bibliography/demand-response.bib
- : @article{Szepesvari2010
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1012 of file ../bibliography/demand-response.bib
- : @article{Vardakas2015
- :                      ,
-I'm skipping whatever remains of this entry
-Warning--empty journal in Chertkov2017
-Warning--there's a number but no series in Badanidiyuru2013
-Warning--empty booktitle in Agrawal2015
-Warning--there's a number but no series in Agrawal2015
-Warning--empty institution in DepartmentofEnergyUSA2006
-You've used 28 entries,
+Database file #1: ../bibliography/aggregation.bib
+Warning--I'm ignoring ARTM1's extra "booktitle" field
+--line 184 of file ../bibliography/aggregation.bib
+Warning--I'm ignoring IncHClustering's extra "booktitle" field
+--line 205 of file ../bibliography/aggregation.bib
+Warning--I'm ignoring hPAM's extra "booktitle" field
+--line 233 of file ../bibliography/aggregation.bib
+Warning--I didn't find a database entry for "Aalami2010"
+Warning--I didn't find a database entry for "Vardakas2015"
+Warning--I didn't find a database entry for "Lisovich2010"
+Warning--I didn't find a database entry for "Aalami2010b"
+Warning--I didn't find a database entry for "Badanidiyuru2013"
+Warning--empty booktitle in hLDA
+Warning--empty journal in hARTM
+You've used 19 entries,
             1821 wiz_defined-function locations,
-            664 strings with 9468 characters,
-and the built_in function-call counts, 6789 in all, are:
-= -- 623
-> -- 307
-< -- 9
-+ -- 113
-- -- 85
-* -- 665
-:= -- 1083
-add.period$ -- 30
-call.type$ -- 28
-change.case$ -- 28
+            610 strings with 7922 characters,
+and the built_in function-call counts, 5233 in all, are:
+= -- 450
+> -- 275
+< -- 8
++ -- 96
+- -- 77
+* -- 436
+:= -- 816
+add.period$ -- 28
+call.type$ -- 19
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 33
-duplicate$ -- 264
-empty$ -- 620
-format.name$ -- 85
-if$ -- 1469
+cite$ -- 21
+duplicate$ -- 241
+empty$ -- 494
+format.name$ -- 77
+if$ -- 1188
 int.to.chr$ -- 0
-int.to.str$ -- 28
-missing$ -- 26
-newline$ -- 143
-num.names$ -- 28
-pop$ -- 52
+int.to.str$ -- 19
+missing$ -- 18
+newline$ -- 97
+num.names$ -- 29
+pop$ -- 76
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 80
+skip$ -- 112
 stack$ -- 0
-substring$ -- 498
-swap$ -- 60
-text.length$ -- 9
+substring$ -- 266
+swap$ -- 77
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 75
-width$ -- 30
-write$ -- 312
-(There were 6 error messages)
+warning$ -- 2
+while$ -- 50
+width$ -- 21
+write$ -- 212
+(There were 10 warnings)
