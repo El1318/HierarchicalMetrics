@@ -18,24 +18,24 @@ David~M. Blei, Andrew~Y. Ng, and Michael~I. Jordan,
 \newblock {\em Journal of Machine Learning Research}, vol. 3, pp. 993--1022,
   2003.
 
-\bibitem{extLDA1}
-Michal Rosen-Zvi, Thomas~L. Griffiths, Mark Steyvers, and Padhraic Smyth,
-\newblock ``The author-topic model for authors and documents'',
-\newblock {\em CoRR}, vol. abs/1207.4169, 2012.
+\bibitem{Chemudugunta2006}
+C~Chemudugunta, P~Smyth, and M~Steyvers,
+\newblock ``{Modeling general and specific aspects of documents with a
+  probabilistic topic model}'',
+\newblock {\em Nips}, 2006.
 
-\bibitem{extLDA2}
-Chaitanya Chemudugunta, Padhraic Smyth, and Mark Steyvers,
-\newblock ``Modeling general and specific aspects of documents with a
-  probabilistic topic model'',
-\newblock in {\em NIPS}, Bernhard Sch{\"o}lkopf, John~C. Platt, and Thomas
-  Hofmann, Eds. 2006, pp. 241--248, MIT Press.
+\bibitem{Rosen-Zvi2004}
+M.~Rosen-Zvi, T.~Griffiths, M.~Steyvers, and P.~Smyth,
+\newblock ``{The author-topic model for authors and documents}'',
+\newblock {\em Proceedings of the 20th conference on Uncertainty in artificial
+  intelligence}, 2004.
 
-\bibitem{extLDA3}
+\bibitem{Than2012}
 Khoat Than and Tu~Bao Ho,
-\newblock ``Fully sparse topic models'',
-\newblock in {\em ECML/PKDD (1)}, Peter~A. Flach, Tijl~De Bie, and Nello
-  Cristianini, Eds. 2012, vol. 7523 of {\em Lecture Notes in Computer Science},
-  pp. 490--505, Springer.
+\newblock ``{Fully sparse topic models}'',
+\newblock in {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, 2012.
 
 \bibitem{ARTM1}
 Konstantin Vorontsov, Oleksandr Frei, Murat Apishev, Peter Romov, Marina
@@ -119,5 +119,78 @@ Oleksandr Frei and Murat Apishev,
   modeling'',
 \newblock in {\em Analysis of Images, Social Networks and Texts}. Springer,
   January 2017.
+
+\bibitem{hHDP}
+Elias Zavitsanos, Paliourg@iit~Demokritos Gr, George~A Vouros, and
+  Georgev@aegean Gr,
+\newblock ``{Non-Parametric Estimation of Topic Hierarchies from Texts with
+  Hierarchical Dirichlet Processes Georgios Paliouras}'',
+\newblock {\em Journal of Machine Learning Research}, 2011.
+
+\bibitem{Pujara2012}
+Jay Pujara and Peter Skomoroch,
+\newblock ``{Large-Scale Hierarchical Topic Models}'',
+\newblock {\em NIPS Workshop on Big Learning}, 2012.
+
+\bibitem{Zhai2012}
+Ke~Zhai, Jordan Boyd-Graber, Nima Asadi, and Mohamad~L. Alkhouja,
+\newblock ``{Mr. LDA}'',
+\newblock in {\em Proceedings of the 21st international conference on World
+  Wide Web - WWW '12}, New York, New York, USA, 2012, p. 879, ACM Press.
+
+\bibitem{Mimno2011}
+David Mimno, Hanna~M. Wallach, Edmund Talley, Miriam Leenders, and Andrew
+  McCallum,
+\newblock ``{Optimizing semantic coherence in topic models}'',
+\newblock in {\em Proceedings of the 2011 Conference on Empirical Methods in
+  Natural Language Processing}, 2011.
+
+\bibitem{Schutze1993}
+Hinrich Sch{\"{u}}tze and Jan Pedersen,
+\newblock ``{A Vector Model for Syntagmatic and Paradigmatic Relatedness}'',
+\newblock {\em Making Sense of Words: Proceedings of the Conference}, 1993.
+
+\bibitem{Nikolenko2017}
+Sergey~I. Nikolenko, Sergei Koltcov, and Olessia Koltsova,
+\newblock ``{Topic modelling for qualitative studies}'',
+\newblock {\em Journal of Information Science}, vol. 43, no. 1, pp. 88--102,
+  feb 2017.
+
+\bibitem{Nikolenko2016}
+Sergey~I. Nikolenko and Sergey I.,
+\newblock ``{Topic Quality Metrics Based on Distributed Word
+  Representations}'',
+\newblock in {\em Proceedings of the 39th International ACM SIGIR conference on
+  Research and Development in Information Retrieval - SIGIR '16}, 2016.
+
+\bibitem{Lau2014}
+Jey~Han Lau, David Newman, and Timothy Baldwin,
+\newblock ``{Machine Reading Tea Leaves: Automatically Evaluating Topic
+  Coherence and Topic Model Quality}'',
+\newblock in {\em Proceedings of the 14th Conference of the European Chapter of
+  the Association for Computational Linguistics}, Stroudsburg, PA, USA, 2014,
+  pp. 530--539, Association for Computational Linguistics.
+
+\bibitem{Newman2010}
+David Newman, Jey~Han Lau, Karl Grieser, and Timothy Baldwin,
+\newblock ``Automatic evaluation of topic coherence'',
+\newblock in {\em Human Language Technologies: The 2010 Annual Conference of
+  the North American Chapter of the Association for Computational Linguistics}.
+  Association for Computational Linguistics, 2010, pp. 100--108.
+
+\bibitem{Bouma2009}
+Gerlof Bouma,
+\newblock ``Normalized (pointwise) mutual information in collocation
+  extraction'',
+\newblock {\em Proceedings of GSCL}, pp. 31--40, 2009.
+
+\bibitem{Panchenko2015}
+A.~Panchenko, N.~V. Loukachevitch, D.~Ustalov, D.~Paperno, C.~M. Meyer, and
+  N.~Konstantinova,
+\newblock ``{Russe: the First Workshop on Russian Semantic Similarity}'',
+\newblock {\em Компьютерная Лингвистика И
+  Интеллектуальные Технологии: По
+  Материалам Ежегодной Международной
+  Конференции «Диалог»}, 2015.
 
 \end{thebibliography}

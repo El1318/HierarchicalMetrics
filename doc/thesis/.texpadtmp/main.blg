@@ -4,63 +4,63 @@ The top-level auxiliary file: /Users/maria.selezniova/lib/Rysearch/paper/bachelo
 A level-1 auxiliary file: content/titlepage.aux
 A level-1 auxiliary file: content/introduction.aux
 A level-1 auxiliary file: content/problem_statement.aux
-A level-1 auxiliary file: content/solution.aux
-A level-1 auxiliary file: content/experiments.aux
+A level-1 auxiliary file: content/metrics.aux
+A level-1 auxiliary file: content/aggregation.aux
 A level-1 auxiliary file: content/conclusion.aux
 The style file: ieeepes.bst
 Database file #1: ../bibliography/aggregation.bib
 Warning--I'm ignoring ARTM1's extra "booktitle" field
---line 184 of file ../bibliography/aggregation.bib
+--line 222 of file ../bibliography/aggregation.bib
 Warning--I'm ignoring IncHClustering's extra "booktitle" field
---line 205 of file ../bibliography/aggregation.bib
+--line 243 of file ../bibliography/aggregation.bib
 Warning--I'm ignoring hPAM's extra "booktitle" field
---line 233 of file ../bibliography/aggregation.bib
-Warning--I didn't find a database entry for "Aalami2010"
-Warning--I didn't find a database entry for "Vardakas2015"
-Warning--I didn't find a database entry for "Lisovich2010"
-Warning--I didn't find a database entry for "Aalami2010b"
-Warning--I didn't find a database entry for "Badanidiyuru2013"
+--line 271 of file ../bibliography/aggregation.bib
+Database file #2: ../bibliography/metrics.bib
+Repeated entry---line 292 of file ../bibliography/metrics.bib
+ : @article{Lau2014
+ :                 ,
+I'm skipping whatever remains of this entry
 Warning--empty booktitle in hLDA
 Warning--empty journal in hARTM
-You've used 19 entries,
+You've used 30 entries,
             1821 wiz_defined-function locations,
-            610 strings with 7922 characters,
-and the built_in function-call counts, 5233 in all, are:
-= -- 450
-> -- 275
-< -- 8
-+ -- 96
-- -- 77
-* -- 436
-:= -- 816
-add.period$ -- 28
-call.type$ -- 19
-change.case$ -- 19
+            661 strings with 10370 characters,
+and the built_in function-call counts, 7329 in all, are:
+= -- 616
+> -- 382
+< -- 9
++ -- 137
+- -- 107
+* -- 579
+:= -- 1156
+add.period$ -- 38
+call.type$ -- 30
+change.case$ -- 30
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 241
-empty$ -- 494
-format.name$ -- 77
-if$ -- 1188
+cite$ -- 32
+duplicate$ -- 353
+empty$ -- 709
+format.name$ -- 107
+if$ -- 1663
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 18
-newline$ -- 97
-num.names$ -- 29
-pop$ -- 76
+int.to.str$ -- 30
+missing$ -- 29
+newline$ -- 152
+num.names$ -- 36
+pop$ -- 119
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 112
+skip$ -- 160
 stack$ -- 0
-substring$ -- 266
-swap$ -- 77
-text.length$ -- 8
+substring$ -- 318
+swap$ -- 102
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 50
-width$ -- 21
-write$ -- 212
-(There were 10 warnings)
+while$ -- 65
+width$ -- 32
+write$ -- 326
+(There was 1 error message)

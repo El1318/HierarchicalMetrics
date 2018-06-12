@@ -1,17 +1,34 @@
 \select@language {russian}
 \select@language {russian}
-\contentsline {chapter}{\numberline {1}\IeC {\CYRV }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{3}
-\contentsline {chapter}{\numberline {2}\IeC {\CYRP }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrk }\IeC {\cyra } \IeC {\cyrz }\IeC {\cyra }\IeC {\cyrd }\IeC {\cyra }\IeC {\cyrch }\IeC {\cyri }}{5}
-\contentsline {section}{\numberline {2.1}\IeC {\CYRP }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrya } \IeC {\cyrm }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyrsftsn } ARTM}{5}
-\contentsline {section}{\numberline {2.2}\IeC {\CYRM }\IeC {\cyru }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrya } \IeC {\cyrm }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyrsftsn } ARTM}{6}
-\contentsline {section}{\numberline {2.3}\IeC {\CYRR }\IeC {\cyre }\IeC {\cyrg }\IeC {\cyru }\IeC {\cyrl }\IeC {\cyrya }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrz }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrery }}{7}
-\contentsline {section}{\numberline {2.4}\IeC {\CYRI }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrh }\IeC {\cyri }\IeC {\cyrch }\IeC {\cyre }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrya } \IeC {\cyrm }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyrsftsn } ARTM}{7}
-\contentsline {chapter}{\numberline {3}Proposed Framework}{9}
-\contentsline {section}{\numberline {3.1}Notation and Problem Setup}{9}
-\contentsline {section}{\numberline {3.2}Solution}{10}
-\contentsline {paragraph}{The Bandit}{12}
-\contentsline {paragraph}{The Algorithm with known $\Omega _{ij}(t)$ and without a knapsack:}{13}
-\contentsline {paragraph}{The Algorithm without a knapsack and without $\Omega _{ij}(t)$}{13}
-\contentsline {paragraph}{The Algorithm with a knapsack and without $\Omega _{ij}(t)$}{15}
-\contentsline {chapter}{\numberline {4}Numerical Experiments}{17}
-\contentsline {chapter}{\numberline {5}Conclusion}{18}
+\contentsline {chapter}{\numberline {1}Введение}{4}
+\contentsline {chapter}{\numberline {2}Обзор литературы}{6}
+\contentsline {section}{\numberline {2.1}Постановка задачи тематического моделирования}{6}
+\contentsline {section}{\numberline {2.2}Плоские тематические модели}{7}
+\contentsline {subsection}{\numberline {2.2.1}Вероятностный латентный семантический анализ}{7}
+\contentsline {subsection}{\numberline {2.2.2}Байесовский подход}{8}
+\contentsline {subsection}{\numberline {2.2.3}Аддитивная регуляризация тематических моделей}{8}
+\contentsline {subsection}{\numberline {2.2.4}Мультимодальные тематические модели}{9}
+\contentsline {section}{\numberline {2.3}Иерархические тематические модели}{10}
+\contentsline {subsection}{\numberline {2.3.1}Обобщения LDA для тематических иерархий}{10}
+\contentsline {subsection}{\numberline {2.3.2}Иерархическая модель ARTM}{10}
+\contentsline {section}{\numberline {2.4}Метрики качества тематических моделей}{11}
+\contentsline {chapter}{\numberline {3}Измерение качества тематических иерархий}{14}
+\contentsline {section}{\numberline {3.1}Метрики качества ребер иерархии}{14}
+\contentsline {subsection}{\numberline {3.1.1}Метрики на основе лингвистической близости}{14}
+\contentsline {subsection}{\numberline {3.1.2}Метрики на основе вероятностной близости}{15}
+\contentsline {section}{\numberline {3.2}Асессорская разметка ребер иерархии}{15}
+\contentsline {subsection}{\numberline {3.2.1}Описанные данных и моделей}{16}
+\contentsline {subsection}{\numberline {3.2.2}Постановка задания для асессоров}{16}
+\contentsline {subsection}{\numberline {3.2.3}Контроль качества}{17}
+\contentsline {subsection}{\numberline {3.2.4}Результаты}{17}
+\contentsline {section}{\numberline {3.3}Сравнение метрик с асессорскими оценками}{18}
+\contentsline {section}{\numberline {3.4}Метрики качества тематических иерархий}{19}
+\contentsline {chapter}{\numberline {4}Агрегирование гетерогенных текстовых коллекций в тематической иерархии}{20}
+\contentsline {section}{\numberline {4.1}Постановка задачи}{20}
+\contentsline {section}{\numberline {4.2}Описание данных}{20}
+\contentsline {section}{\numberline {4.3}Базовый алгоритм}{21}
+\contentsline {section}{\numberline {4.4}Предлагаемый алгоритм}{22}
+\contentsline {subsection}{\numberline {4.4.1}Фильтрация новой коллекции}{22}
+\contentsline {subsection}{\numberline {4.4.2}Дополнение модели отфильтрованной коллекцией}{23}
+\contentsline {section}{\numberline {4.5}Сравнение алгоритмов}{23}
+\contentsline {chapter}{\numberline {5}Заключение}{24}

@@ -1,5 +1,43 @@
 % Encoding: UTF-8
 
+@inproceedings{Zhai2012,
+abstract = {Latent Dirichlet Allocation (LDA) is a popular topic modeling technique for exploring document collections. Because of the increasing prevalence of large datasets, there is a need to improve the scalability of inference for LDA. In this paper, we introduce a novel and flexible large scale topic modeling package in MapReduce (Mr. LDA). As opposed to other techniques which use Gibbs sampling, our proposed framework uses variational inference, which easily fits into a distributed environment. More importantly, this variational implementation, unlike highly tuned and specialized implementations based on Gibbs sampling, is easily extensible. We demonstrate two extensions of the models possible with this scalable framework: informed priors to guide topic discovery and extracting topics from a multilingual corpus. We compare the scalability of Mr. LDA against Mahout, an existing large scale topic modeling package. Mr. LDA out-performs Mahout both in execution speed and held-out likelihood.},
+address = {New York, New York, USA},
+author = {Zhai, Ke and Boyd-Graber, Jordan and Asadi, Nima and Alkhouja, Mohamad L.},
+booktitle = {Proceedings of the 21st international conference on World Wide Web - WWW '12},
+doi = {10.1145/2187836.2187955},
+isbn = {9781450312295},
+issn = {1450312292},
+pages = {879},
+publisher = {ACM Press},
+title = {{Mr. LDA}},
+url = {http://dl.acm.org/citation.cfm?doid=2187836.2187955},
+year = {2012}
+}
+
+
+@article{Pujara2012,
+abstract = {In the past decade, a number of advances in topic modeling have produced sophis-ticated models that are capable of generating hierarchies of topics. One challenge for these models is scalability: they are incapable of working at the massive scale of millions of documents and hundreds of thousands of terms. We address this challenge with a technique that learns a hierarchy of topics by iteratively apply-ing topic models and processing subtrees of the hierarchy in parallel. This ap-proach has a number of scalability advantages compared to existing techniques, and shows promising results in experiments assessing runtime and human evalu-ations of quality. We detail extensions to this approach that may further improve hierarchical topic modeling for large-scale applications.},
+author = {Pujara, Jay and Skomoroch, Peter},
+journal = {NIPS Workshop on Big Learning},
+title = {{Large-Scale Hierarchical Topic Models}},
+year = {2012}
+}
+
+
+@article{hHDP,
+abstract = {This paper presents hHDP, a hierarchical algorithm for representing a document collection as a hi-erarchy of latent topics, based on Dirichlet process priors. The hierarchical nature of the algorithm refers to the Bayesian hierarchy that it comprises, as well as to the hierarchy of the latent topics. hHDP relies on nonparametric Bayesian priors and it is able to infer a hierarchy of topics, without making any assumption about the depth of the learned hierarchy and the branching factor at each level. We evaluate the proposed method on real-world data sets in document modeling, as well as in ontology learning, and provide qualitative and quantitative evaluation results, showing that the model is robust, it models accurately the training data set and is able to generalize on held-out data.},
+author = {Zavitsanos, Elias and Gr, Paliourg@iit Demokritos and Vouros, George A and Gr, Georgev@aegean},
+isbn = {1532-4435},
+issn = {1532-4435},
+journal = {Journal of Machine Learning Research},
+keywords = {hierarchical Dirichlet processes,ontol-ogy learning from text,probabilistic topic models,topic distributions,topic hierarchy},
+mendeley-groups = {ARTM},
+title = {{Non-Parametric Estimation of Topic Hierarchies from Texts with Hierarchical Dirichlet Processes Georgios Paliouras}},
+year = {2011}
+}
+
+
 @InProceedings{IncClust2,
   title =	"Incremental Construction of Topic Hierarchies using
 		 Hierarchical Term Clustering",
