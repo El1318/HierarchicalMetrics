@@ -9,26 +9,17 @@
  bottom=24mm}
  
 \setlength{\marginparwidth}{25mm}
- 
-%% Path to graphic matherials
 \usepackage{graphicx, url}
-\graphicspath{figures/}
+
 
 %% My library with adhocs and useful tools
 \input{tools/shared}
 
-%% Not used, but I left it here for copyright purposes
-\author{Aleksei Sholokhov}
-\title{The Bachelor Thesis}
-
 \begin{document}
-
 %% Include title page for Russian bachelor thesis
 \selectlanguage{russian}
 \include{content/titlepage}
 \clearpage
-
-%\selectlanguage{english}
 
 %% Include table of contents
 \newpage
@@ -38,6 +29,7 @@
 
 %% Chapter with introductions and overviews
 \include{content/introduction}
+
 
 %% Chapter with problem statement
 \include{content/problem_statement}
@@ -53,6 +45,4 @@
 %% Bibliography
 \bibliographystyle{ieeepes}
 \bibliography{bibliography/aggregation, bibliography/metrics}
-
 \end{document}
-

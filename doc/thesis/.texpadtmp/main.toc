@@ -1,34 +1,35 @@
 \select@language {russian}
 \select@language {russian}
 \contentsline {chapter}{\numberline {1}Введение}{4}
-\contentsline {chapter}{\numberline {2}Обзор литературы}{6}
-\contentsline {section}{\numberline {2.1}Постановка задачи тематического моделирования}{6}
-\contentsline {section}{\numberline {2.2}Плоские тематические модели}{7}
-\contentsline {subsection}{\numberline {2.2.1}Вероятностный латентный семантический анализ}{7}
-\contentsline {subsection}{\numberline {2.2.2}Байесовский подход}{8}
-\contentsline {subsection}{\numberline {2.2.3}Аддитивная регуляризация тематических моделей}{8}
-\contentsline {subsection}{\numberline {2.2.4}Мультимодальные тематические модели}{9}
-\contentsline {section}{\numberline {2.3}Иерархические тематические модели}{10}
-\contentsline {subsection}{\numberline {2.3.1}Обобщения LDA для тематических иерархий}{10}
-\contentsline {subsection}{\numberline {2.3.2}Иерархическая модель ARTM}{10}
-\contentsline {section}{\numberline {2.4}Метрики качества тематических моделей}{11}
-\contentsline {chapter}{\numberline {3}Измерение качества тематических иерархий}{14}
-\contentsline {section}{\numberline {3.1}Метрики качества ребер иерархии}{14}
-\contentsline {subsection}{\numberline {3.1.1}Метрики на основе лингвистической близости}{14}
-\contentsline {subsection}{\numberline {3.1.2}Метрики на основе вероятностной близости}{15}
-\contentsline {section}{\numberline {3.2}Асессорская разметка ребер иерархии}{15}
-\contentsline {subsection}{\numberline {3.2.1}Описанные данных и моделей}{16}
-\contentsline {subsection}{\numberline {3.2.2}Постановка задания для асессоров}{16}
-\contentsline {subsection}{\numberline {3.2.3}Контроль качества}{17}
-\contentsline {subsection}{\numberline {3.2.4}Результаты}{17}
-\contentsline {section}{\numberline {3.3}Сравнение метрик с асессорскими оценками}{18}
+\contentsline {chapter}{\numberline {2}Обзор литературы}{5}
+\contentsline {section}{\numberline {2.1}Постановка задачи тематического моделирования}{5}
+\contentsline {section}{\numberline {2.2}Плоские тематические модели}{6}
+\contentsline {subsection}{\numberline {2.2.1}Вероятностный латентный семантический анализ}{6}
+\contentsline {subsection}{\numberline {2.2.2}Байесовский подход}{7}
+\contentsline {subsection}{\numberline {2.2.3}Аддитивная регуляризация тематических моделей}{7}
+\contentsline {subsection}{\numberline {2.2.4}Мультимодальные тематические модели}{8}
+\contentsline {section}{\numberline {2.3}Иерархические тематические модели}{9}
+\contentsline {subsection}{\numberline {2.3.1}Обобщения LDA для тематических иерархий}{9}
+\contentsline {subsection}{\numberline {2.3.2}Иерархическая модель ARTM}{9}
+\contentsline {section}{\numberline {2.4}Метрики качества тематических моделей}{10}
+\contentsline {chapter}{\numberline {3}Измерение качества тематических иерархий}{13}
+\contentsline {section}{\numberline {3.1}Метрики качества ребер иерархии}{13}
+\contentsline {subsection}{\numberline {3.1.1}Метрики на основе лингвистической близости}{13}
+\contentsline {subsection}{\numberline {3.1.2}Метрики на основе вероятностной близости}{14}
+\contentsline {section}{\numberline {3.2}Асессорская разметка ребер иерархии}{14}
+\contentsline {subsection}{\numberline {3.2.1}Описанные данных и моделей}{15}
+\contentsline {subsection}{\numberline {3.2.2}Постановка задачи для асессоров}{15}
+\contentsline {subsection}{\numberline {3.2.3}Контроль качества}{16}
+\contentsline {subsection}{\numberline {3.2.4}Результаты}{16}
+\contentsline {section}{\numberline {3.3}Сравнение метрик с асессорскими оценками}{17}
 \contentsline {section}{\numberline {3.4}Метрики качества тематических иерархий}{19}
-\contentsline {chapter}{\numberline {4}Агрегирование гетерогенных текстовых коллекций в тематической иерархии}{20}
-\contentsline {section}{\numberline {4.1}Постановка задачи}{20}
-\contentsline {section}{\numberline {4.2}Описание данных}{20}
-\contentsline {section}{\numberline {4.3}Базовый алгоритм}{21}
-\contentsline {section}{\numberline {4.4}Предлагаемый алгоритм}{22}
-\contentsline {subsection}{\numberline {4.4.1}Фильтрация новой коллекции}{22}
-\contentsline {subsection}{\numberline {4.4.2}Дополнение модели отфильтрованной коллекцией}{23}
-\contentsline {section}{\numberline {4.5}Сравнение алгоритмов}{23}
-\contentsline {chapter}{\numberline {5}Заключение}{24}
+\contentsline {subsection}{\numberline {3.4.1}Среднее качество ребер}{19}
+\contentsline {subsection}{\numberline {3.4.2}Качество ранжирования}{20}
+\contentsline {chapter}{\numberline {4}Агрегирование гетерогенных текстовых коллекций в тематической иерархии}{21}
+\contentsline {section}{\numberline {4.1}Постановка задачи}{21}
+\contentsline {section}{\numberline {4.2}Базовый алгоритм}{22}
+\contentsline {section}{\numberline {4.3}Предлагаемый алгоритм}{23}
+\contentsline {subsection}{\numberline {4.3.1}Фильтрация новой коллекции}{23}
+\contentsline {subsection}{\numberline {4.3.2}Дополнение модели отфильтрованной коллекцией}{24}
+\contentsline {section}{\numberline {4.4}Сравнение алгоритмов}{25}
+\contentsline {chapter}{\numberline {5}Заключение}{26}

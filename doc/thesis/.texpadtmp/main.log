@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  12 JUN 2018 08:15
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  15 JUN 2018 23:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -837,22 +837,22 @@ LaTeX Info: Redefining \addtolength on input line 81.
 (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -895,56 +895,56 @@ LaTeX Font Info:    ... okay on input line 24.
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 24.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 24.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 24.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 24.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 24.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 24.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 24.
-LaTeX Font Info:    Redeclaring math accent \check on input line 24.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 24.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 24.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 24.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 24.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 24.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 18.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 18.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 18.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 18.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 18.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 18.
+LaTeX Font Info:    Redeclaring math accent \check on input line 18.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 18.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 18.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 18.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 18.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 18.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 24.
+(Font)              `operators' in the math version `normal' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Times(0)/m/n on input line 24.
+(Font)                  OT1/cmr/m/n --> TU/Times(0)/m/n on input line 18.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 24.
+(Font)              `operators' in the math version `bold' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Times(0)/m/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> TU/Times(0)/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Times(0)/m/n --> TU/Times(0)/m/n on input line 24.
+(Font)                  TU/Times(0)/m/n --> TU/Times(0)/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Times(0)/m/it on input line 24.
+(Font)                  OT1/cmr/m/it --> TU/Times(0)/m/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Times(0)/bx/n on input line 24.
+(Font)                  OT1/cmr/bx/n --> TU/Times(0)/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 24.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Times(0)/m/n --> TU/Times(0)/bx/n on input line 24.
+(Font)                  TU/Times(0)/m/n --> TU/Times(0)/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Times(0)/bx/it on input line 24.
+(Font)                  OT1/cmr/bx/it --> TU/Times(0)/bx/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 24.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 24.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 18.
 ABD: EveryShipout initializing macros
 \openout2 = `content/titlepage.aux'.
 
@@ -986,24 +986,24 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  (./content/introduction.tex
 Глава 1.
-[4
+) [4
 
 
-]) [5]
+]
 \openout2 = `content/problem_statement.aux'.
 
  (./content/problem_statement.tex
 Глава 2.
-[6
+[5
 
 
 
-] [7]
+] [6]
 Overfull \hbox (4.89915pt too wide) in paragraph at lines 47--48
 []\TU/Times(0)/m/n/14.4 Наиболее применимой моделью является латентное размещение Ди-
  []
 
-[8]
+[7]
 Overfull \hbox (3.45157pt too wide) in paragraph at lines 68--69
 []\TU/Times(0)/m/n/14.4 Тогда модель PLSA эквивалентна модели ARTM в случае $\OML/cmm/m/it/14.4 R\OT1/cmr/m/n/14.4 (^^H\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 ^^B) =
  []
@@ -1013,12 +1013,12 @@ Overfull \hbox (17.96677pt too wide) in paragraph at lines 74--75
 []\TU/Times(0)/m/n/14.4 Регуляризатор сглаживания вводит в модель требование, чтобы столб-
  []
 
-[9]
+[8]
 Overfull \hbox (2.49094pt too wide) in paragraph at lines 112--113
 \TU/Times(0)/m/n/14.4 В иерархической модели ARTM (hARTM) [[]] для связи уровней иерар-
  []
 
-[10]
+[9]
 Overfull \hbox (8.05188pt too wide) in paragraph at lines 127--128
 []\TU/Times(0)/m/n/14.4 Этот регуляризатор эквивалентен добавлению в коллекцию $\OMS/cmsy/m/n/14.4 j\OML/cmm/m/it/14.4 A\OMS/cmsy/m/n/14.4 j$ \TU/Times(0)/m/n/14.4 псев-
  []
@@ -1028,12 +1028,12 @@ Overfull \hbox (2.80421pt too wide) in paragraph at lines 129--129
 []\TU/Times(0)/bx/n/20.74 Метрики качества тематических моделей 
  []
 
-[11] [12]
+[10] [11]
 Overfull \hbox (0.3675pt too wide) in paragraph at lines 169--170
 []\TU/Times(0)/m/n/14.4 В [[]] проведено сравнение согласованности с асессорами всех при-
  []
 
-) [13]
+) [12]
 \openout2 = `content/metrics.aux'.
 
  (./content/metrics.tex
@@ -1048,11 +1048,11 @@ Overfull \hbox (2.16869pt too wide) in paragraph at lines 8--9
 \TU/Times(0)/m/n/14.4 матической родственности топ-токенов темы-родителя и темы-ребенка
  []
 
-[14
+[13
 
 
 
-] [15]
+] [14]
 Overfull \hbox (8.97847pt too wide) in paragraph at lines 39--40
 []\TU/Times(0)/bx/n/14.4 Постнаука (Postnauka.ru)\TU/Times(0)/m/n/14.4 , научно-популярный интернет-журнал
  []
@@ -1062,171 +1062,159 @@ Overfull \hbox (2.26833pt too wide) in paragraph at lines 41--42
 []\TU/Times(0)/bx/n/14.4 Элементы (Elementy.ru)\TU/Times(0)/m/n/14.4 , научно-популярный веб-сайт с особым
  []
 
-[16] [17]
+[15] [16]
+Overfull \hbox (0.74722pt too wide) in paragraph at lines 107--108
+[]\TU/Times(0)/m/n/14.4 Поставив задачу таким образом, можно рассчитать ROC AUC клас-
+ []
+
 File: img/metrics_distr.png Graphic file (type QTm)
- <use  "img/metrics_distr.png" >
+<use  "img/metrics_distr.png" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.17297pt too wide) in paragraph at lines 133--134
+[]\TU/Times(0)/m/n/14.4 В дальнейшем в вычислительных экспериментах используется мет-
+ []
+
+[17]
 File: img/metrics_interpr.png Graphic file (type QTm)
- <use  "img/metrics_interpr.png" >) [18] [19]
+ <use  "img/metrics_interpr.png" >
+Overfull \hbox (6.7164pt too wide) in paragraph at lines 142--143
+\TU/Times(0)/m/n/14.4 перимента. Y-координаты точек соответствуют значениям метрики $[][]$
+ []
+
+[18] [19]
+Overfull \hbox (0.20464pt too wide) in paragraph at lines 160--161
+\TU/Times(0)/m/n/14.4 Второй предлагаемый метод оценки качества связей иерархии рассмат-
+ []
+
+
+Overfull \hbox (1.00151pt too wide) in paragraph at lines 160--161
+\TU/Times(0)/m/n/14.4 ривает качество ранжирования ребер по значениям вероятностей в мат-
+ []
+
+
+Overfull \hbox (3.24928pt too wide) in paragraph at lines 160--161
+\TU/Times(0)/m/n/14.4 представляющих собой плоские тематические модели. Если нужно про-
+ []
+
+) [20]
 \openout2 = `content/aggregation.aux'.
 
  (./content/aggregation.tex
 Глава 4.
 
-Overfull \hbox (13.59445pt too wide) in paragraph at lines 6--10
-[]\TU/Times(0)/m/n/14.4 Использовались коллекции статей Хабрахабра и научно-популярного
+Overfull \hbox (1.42812pt too wide) in paragraph at lines 7--8
+[]\TU/Times(0)/m/n/14.4 Алгоритм, решающий поставленную задачу, должен позволить уве-
  []
 
-
-Overfull \hbox (3.3804pt too wide) in paragraph at lines 6--10
-\TU/Times(0)/m/n/14.4 документов и содержит модальности слов (43196 токенов) и тэгов (1799
- []
-
-
-Overfull \hbox (12.30658pt too wide) in paragraph at lines 6--10
-\TU/Times(0)/m/n/14.4 держит модальность слов, содержащихся в коллекции ПостНауки (35640
- []
-
-
-Overfull \hbox (1.34605pt too wide) in paragraph at lines 6--10
-\TU/Times(0)/m/n/14.4 кенов), модальность тэгов, содержащихся в коллекции ПостНауки (673
- []
-
-
-Overfull \hbox (11.99487pt too wide) in paragraph at lines 11--13
-\TU/Times(0)/m/n/14.4 естественнонаучные и гуманитарные), поэтому для большинства научно-
- []
-
-[20
+[21
 
 
 
 ]
-Overfull \hbox (1.7515pt too wide) in paragraph at lines 16--17
+Overfull \hbox (1.7515pt too wide) in paragraph at lines 17--18
 \TU/Times(0)/m/n/14.4 ных текстовых коллекций предполагает объединение коллекций из раз-
  []
 
 
-Overfull \hbox (1.22783pt too wide) in paragraph at lines 16--17
+Overfull \hbox (1.22783pt too wide) in paragraph at lines 17--18
 \TU/Times(0)/m/n/14.4 ных источников и построение общей модели. В этом эксперименте объ-
  []
 
-[21]
-Overfull \hbox (23.41476pt too wide) in paragraph at lines 60--61
+[22]
+Overfull \hbox (23.41476pt too wide) in paragraph at lines 62--63
 \TU/Times(0)/m/n/14.4 дем понимать как косинусное расстояние между их tf-idf-представлениями,
  []
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 62.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 64.
 
-Overfull \hbox (1.8301pt too wide) in paragraph at lines 70--71
+Overfull \hbox (1.8301pt too wide) in paragraph at lines 72--73
 []\TU/Times(0)/m/n/14.4 Пусть $[] \OT1/cmr/m/n/14.4 = [[](\OML/cmm/m/it/14.4 d[]; d[]\OT1/cmr/m/n/14.4 )][]$ \TU/Times(0)/m/n/14.4 — матрица расстояний меж-
  []
 
-[22]
-Overfull \hbox (3.70207pt too wide) in paragraph at lines 78--80
+[23]
+Overfull \hbox (3.70207pt too wide) in paragraph at lines 80--82
 \TU/Times(0)/m/n/14.4 ниям $[]\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 n; \OT1/cmr/m/n/14.4 :]$\TU/Times(0)/m/n/14.4 , $[]\OT1/cmr/m/n/14.4 (\OMS/cmsy/m/n/14.4 ^^A\OT1/cmr/m/n/14.4 )$ \TU/Times(0)/m/n/14.4 — среднее арифметическое, $[][]\OML/cmm/m/it/14.4 ; i \OMS/cmsy/m/n/14.4 2 \OT1/cmr/m/n/14.4 [1\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 2]$
  []
 
 
-Overfull \hbox (0.39084pt too wide) in paragraph at lines 81--81
+Overfull \hbox (0.39084pt too wide) in paragraph at lines 83--83
 []\TU/Times(0)/bx/n/17.28 Дополнение модели отфильтрованной коллекци-
  []
 
 
-Overfull \hbox (14.1875pt too wide) in paragraph at lines 88--90
+Overfull \hbox (14.1875pt too wide) in paragraph at lines 90--92
 \TU/Times(0)/m/n/14.4 появлению подтем, характерных для нового источника, на втором уровне.
  []
 
-) [23]
+) [24] [25]
 \openout2 = `content/conclusion.aux'.
 
  (./content/conclusion.tex
 Глава 5.
-) [24
+) [26
 
 
 
 ] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.bbl
-Underfull \hbox (badness 2707) in paragraph at lines 49--53
-[]\TU/Times(0)/m/n/14.4 Konstantin Vorontsov, Anna Potapenko, and Alexander Plavin,
- []
-
-[25
-
-
-]
-Underfull \hbox (badness 7362) in paragraph at lines 65--70
-\TU/Times(0)/m/n/14.4 topic modeling: Additive regularization for stochastic matrix
- []
-
-
-Underfull \hbox (badness 1389) in paragraph at lines 72--76
+Underfull \hbox (badness 1389) in paragraph at lines 41--45
 []\TU/Times(0)/m/n/14.4 D. M Blei, T. Griffiths, Michael I. Jordan, and J. Tenenbaum,
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 84--88
-[]\TU/Times(0)/m/n/14.4 NA Chirkova and KV Vorontsov,  “Additive regularization for
- []
-
-
-Underfull \hbox (badness 1859) in paragraph at lines 102--107
-[]\TU/Times(0)/m/n/14.4 Nachiketa Sahoo, Jamie Callan, Ramayya Krishnan, George T.
- []
-
-
-Underfull \hbox (badness 3590) in paragraph at lines 109--115
-\TU/Times(0)/m/n/14.4 and Marina Dudarenko,  “Bigartm: Open source library for
- []
-
-
-Underfull \hbox (badness 4713) in paragraph at lines 117--122
-[]\TU/Times(0)/m/n/14.4 Oleksandr Frei and Murat Apishev,  “Parallel non-blocking
- []
-
-[26]
-Underfull \hbox (badness 7099) in paragraph at lines 124--129
+Underfull \hbox (badness 7099) in paragraph at lines 53--58
 \TU/Times(0)/m/n/14.4 Hierarchies from Texts with Hierarchical Dirichlet Processes
  []
 
+[27
 
-Underfull \hbox (badness 2452) in paragraph at lines 136--140
+
+]
+Underfull \hbox (badness 2452) in paragraph at lines 65--69
 []\TU/Times(0)/m/n/14.4 Ke Zhai, Jordan Boyd-Graber, Nima Asadi, and Mohamad L.
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 149--152
+Underfull \hbox (badness 1024) in paragraph at lines 71--75
+[]\TU/Times(0)/m/n/14.4 NA Chirkova and KV Vorontsov,  “Additive regularization for
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 84--87
 []\TU/Times(0)/m/n/14.4 Hinrich Schütze and Jan Pedersen,  “A Vector Model for
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 160--165
+Underfull \hbox (badness 1377) in paragraph at lines 95--100
 \TU/Times(0)/m/n/14.4 on Distributed Word Representations”,  in \TU/Times(0)/m/it/14.4 Proceedings of the
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 160--165
+Underfull \hbox (badness 2165) in paragraph at lines 95--100
 \TU/Times(0)/m/it/14.4 39th International ACM SIGIR conference on Research and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--180
+Underfull \hbox (badness 10000) in paragraph at lines 110--115
 \TU/Times(0)/m/it/14.4 Chapter of the Association for Computational Linguistics\TU/Times(0)/m/n/14.4 .
  []
 
-[27]) [28] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
+[28]) [29] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 23866 strings out of 493005
- 499141 string characters out of 6134597
- 664034 words of memory out of 5000000
- 27359 multiletter control sequences out of 15000+600000
+ 23852 strings out of 493005
+ 499060 string characters out of 6134597
+ 663993 words of memory out of 5000000
+ 27353 multiletter control sequences out of 15000+600000
  10825 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,10n,66p,10384b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,10n,66p,10384b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (29 pages).
+Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (30 pages).
