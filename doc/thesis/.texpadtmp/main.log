@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  16 JUN 2018 05:22
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  16 JUN 2018 07:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1176,13 +1176,18 @@ File: img/pn_level0.png Graphic file (type QTm)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [27]
+Overfull \hbox (9.93353pt too wide) in paragraph at lines 187--188
+\TU/Times(0)/m/n/14.4 Предлагаемый метод построения тематической иерархии имеет несколь-
+ []
+
+[28]
 File: img/alg_comparison.png Graphic file (type QTm)
- <use  "img/alg_comparison.png" >) [28]
+ <use  "img/alg_comparison.png" >) [29] [30]
 \openout2 = `content/conclusion.aux'.
 
  (./content/conclusion.tex
 Глава 5.
-) [29
+) [31
 
 
 
@@ -1196,7 +1201,7 @@ Underfull \hbox (badness 7099) in paragraph at lines 53--58
 \TU/Times(0)/m/n/14.4 Hierarchies from Texts with Hierarchical Dirichlet Processes
  []
 
-[30
+[32
 
 
 ]
@@ -1229,12 +1234,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 \TU/Times(0)/m/it/14.4 Chapter of the Association for Computational Linguistics\TU/Times(0)/m/n/14.4 .
  []
 
-[31]
+[33]
 Underfull \hbox (badness 1577) in paragraph at lines 137--142
 \TU/Times(0)/m/n/14.4 objective topic modeling for exploratory search in tech news”,
  []
 
-) [32] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
+) [34] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1249,4 +1254,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  66i,11n,78p,10384b,714s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (33 pages).
+Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (35 pages).
