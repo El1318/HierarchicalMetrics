@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  16 JUN 2018 09:46
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  16 JUN 2018 11:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1183,17 +1183,24 @@ Overfull \hbox (9.93353pt too wide) in paragraph at lines 187--188
 [28]
 File: img/alg_comparison.png Graphic file (type QTm)
  <use  "img/alg_comparison.png" >
+File: img/num_edges.png Graphic file (type QTm)
+ <use  "img/num_edges.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [29]
 File: img/ranking_alg_comparison.png Graphic file (type QTm)
- <use  "img/ranking_alg_comparison.png" >) [30] [31]
+ <use  "img/ranking_alg_comparison.png" > [30] [31]
+Overfull \hbox (0.85036pt too wide) in paragraph at lines 222--223
+[]\TU/Times(0)/m/n/14.4 Наилучшее качество показывает предлагаемый алгоритм, почти та-
+ []
+
+) [32]
 \openout2 = `content/conclusion.aux'.
 
  (./content/conclusion.tex
 Глава 5.
-) [32
+) [33
 
 
 
@@ -1207,7 +1214,7 @@ Underfull \hbox (badness 7099) in paragraph at lines 53--58
 \TU/Times(0)/m/n/14.4 Hierarchies from Texts with Hierarchical Dirichlet Processes
  []
 
-[33
+[34
 
 
 ]
@@ -1240,24 +1247,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 \TU/Times(0)/m/it/14.4 Chapter of the Association for Computational Linguistics\TU/Times(0)/m/n/14.4 .
  []
 
-[34]
+[35]
 Underfull \hbox (badness 1577) in paragraph at lines 137--142
 \TU/Times(0)/m/n/14.4 objective topic modeling for exploratory search in tech news”,
  []
 
-) [35] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
+) [36] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 23944 strings out of 493005
- 501161 string characters out of 6134597
+ 23946 strings out of 493005
+ 501191 string characters out of 6134597
  667209 words of memory out of 5000000
- 27440 multiletter control sequences out of 15000+600000
+ 27441 multiletter control sequences out of 15000+600000
  10833 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  66i,11n,78p,10384b,714s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (36 pages).
+Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (37 pages).
