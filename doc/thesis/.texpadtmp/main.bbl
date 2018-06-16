@@ -133,4 +133,11 @@ Li~Hang,
 \newblock ``{A Short Introduction to Learning to Rank}'',
 \newblock {\em IEICE Transactions on Information and Systems}, 2011.
 
+\bibitem{Ianina2017}
+Anastasia Ianina, Lev Golitsyn, and Konstantin Vorontsov,
+\newblock ``Multi-objective topic modeling for exploratory search in tech
+  news'',
+\newblock in {\em Conference on Artificial Intelligence and Natural Language}.
+  Springer, 2017, pp. 181--193.
+
 \end{thebibliography}

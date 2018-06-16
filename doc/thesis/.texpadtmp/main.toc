@@ -31,5 +31,9 @@
 \contentsline {section}{\numberline {4.3}Предлагаемый алгоритм}{23}
 \contentsline {subsection}{\numberline {4.3.1}Фильтрация новой коллекции}{23}
 \contentsline {subsection}{\numberline {4.3.2}Дополнение модели отфильтрованной коллекцией}{24}
-\contentsline {section}{\numberline {4.4}Сравнение алгоритмов}{25}
-\contentsline {chapter}{\numberline {5}Заключение}{26}
+\contentsline {section}{\numberline {4.4}Вычислительный эксперимент: агрегирование русскоязычного научно-популярного контента}{25}
+\contentsline {subsection}{\numberline {4.4.1}Начальное приближение: иерархия ПостНауки}{25}
+\contentsline {subsection}{\numberline {4.4.2}Фильтрация коллекции Хабрахабра}{26}
+\contentsline {subsection}{\numberline {4.4.3}Дополнение модели ПостНауки отфильтрованной коллекцией Хабрахабра}{27}
+\contentsline {section}{\numberline {4.5}Сравнение алгоритмов}{28}
+\contentsline {chapter}{\numberline {5}Заключение}{29}

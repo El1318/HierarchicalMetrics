@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  15 JUN 2018 23:45
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  16 JUN 2018 05:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1062,6 +1062,11 @@ Overfull \hbox (2.26833pt too wide) in paragraph at lines 41--42
 []\TU/Times(0)/bx/n/14.4 Элементы (Elementy.ru)\TU/Times(0)/m/n/14.4 , научно-популярный веб-сайт с особым
  []
 
+
+Overfull \hbox (16.55461pt too wide) in paragraph at lines 62--64
+\TU/Times(0)/m/n/14.4 Эксперимент проводился на краудсорсинговой платформе Yandex.Toloka.
+ []
+
 [15] [16]
 Overfull \hbox (0.74722pt too wide) in paragraph at lines 107--108
 []\TU/Times(0)/m/n/14.4 Поставив задачу таким образом, можно рассчитать ROC AUC клас-
@@ -1104,58 +1109,80 @@ Overfull \hbox (3.24928pt too wide) in paragraph at lines 160--161
 
  (./content/aggregation.tex
 Глава 4.
-
-Overfull \hbox (1.42812pt too wide) in paragraph at lines 7--8
-[]\TU/Times(0)/m/n/14.4 Алгоритм, решающий поставленную задачу, должен позволить уве-
- []
-
 [21
 
 
 
 ]
-Overfull \hbox (1.7515pt too wide) in paragraph at lines 17--18
+Overfull \hbox (1.7515pt too wide) in paragraph at lines 18--19
 \TU/Times(0)/m/n/14.4 ных текстовых коллекций предполагает объединение коллекций из раз-
  []
 
 
-Overfull \hbox (1.22783pt too wide) in paragraph at lines 17--18
+Overfull \hbox (1.22783pt too wide) in paragraph at lines 18--19
 \TU/Times(0)/m/n/14.4 ных источников и построение общей модели. В этом эксперименте объ-
  []
 
-[22]
-Overfull \hbox (23.41476pt too wide) in paragraph at lines 62--63
-\TU/Times(0)/m/n/14.4 дем понимать как косинусное расстояние между их tf-idf-представлениями,
+
+Overfull \hbox (7.608pt too wide) in paragraph at lines 25--36
+ [][] 
  []
 
+
+Overfull \hbox (1.14252pt too wide) in paragraph at lines 45--46
+\TU/Times(0)/m/n/14.4 лекцию как $\OML/cmm/m/it/14.4 D[]$\TU/Times(0)/m/n/14.4 , а коллекцию, состоящую из документов, которые необ-
+ []
+
+[22]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 64.
-
-Overfull \hbox (1.8301pt too wide) in paragraph at lines 72--73
-[]\TU/Times(0)/m/n/14.4 Пусть $[] \OT1/cmr/m/n/14.4 = [[](\OML/cmm/m/it/14.4 d[]; d[]\OT1/cmr/m/n/14.4 )][]$ \TU/Times(0)/m/n/14.4 — матрица расстояний меж-
- []
-
-[23]
-Overfull \hbox (3.70207pt too wide) in paragraph at lines 80--82
-\TU/Times(0)/m/n/14.4 ниям $[]\OT1/cmr/m/n/14.4 [\OML/cmm/m/it/14.4 n; \OT1/cmr/m/n/14.4 :]$\TU/Times(0)/m/n/14.4 , $[]\OT1/cmr/m/n/14.4 (\OMS/cmsy/m/n/14.4 ^^A\OT1/cmr/m/n/14.4 )$ \TU/Times(0)/m/n/14.4 — среднее арифметическое, $[][]\OML/cmm/m/it/14.4 ; i \OMS/cmsy/m/n/14.4 2 \OT1/cmr/m/n/14.4 [1\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 2]$
- []
-
-
-Overfull \hbox (0.39084pt too wide) in paragraph at lines 83--83
+ [23]
+Overfull \hbox (0.39084pt too wide) in paragraph at lines 76--76
 []\TU/Times(0)/bx/n/17.28 Дополнение модели отфильтрованной коллекци-
  []
 
 
-Overfull \hbox (14.1875pt too wide) in paragraph at lines 90--92
-\TU/Times(0)/m/n/14.4 появлению подтем, характерных для нового источника, на втором уровне.
+Overfull \hbox (3.70757pt too wide) in paragraph at lines 82--83
+\TU/Times(0)/m/n/14.4 дель, используя только словарь базовой коллекции. Поэтому ини-
  []
 
-) [24] [25]
+
+Overfull \hbox (7.02898pt too wide) in paragraph at lines 87--87
+[]\TU/Times(0)/bx/n/20.74 Вычислительный эксперимент: агрегиро-
+ []
+
+
+Overfull \hbox (21.28255pt too wide) in paragraph at lines 87--87
+\TU/Times(0)/bx/n/20.74 вание русскоязычного научно-популярного
+ []
+
+[24]
+File: img/pn_level0.png Graphic file (type QTm)
+ <use  "img/pn_level0.png" >
+File: img/pn_level1.png Graphic file (type QTm)
+ <use  "img/pn_level1.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25]
+Overfull \hbox (9.57927pt too wide) in paragraph at lines 132--132
+[]\TU/Times(0)/bx/n/17.28 Дополнение модели ПостНауки отфильтрованной
+ []
+
+[26]
+File: img/pn_level0.png Graphic file (type QTm)
+ <use  "img/pn_level0.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27]
+File: img/alg_comparison.png Graphic file (type QTm)
+ <use  "img/alg_comparison.png" >) [28]
 \openout2 = `content/conclusion.aux'.
 
  (./content/conclusion.tex
 Глава 5.
-) [26
+) [29
 
 
 
@@ -1169,7 +1196,7 @@ Underfull \hbox (badness 7099) in paragraph at lines 53--58
 \TU/Times(0)/m/n/14.4 Hierarchies from Texts with Hierarchical Dirichlet Processes
  []
 
-[27
+[30
 
 
 ]
@@ -1202,19 +1229,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--115
 \TU/Times(0)/m/it/14.4 Chapter of the Association for Computational Linguistics\TU/Times(0)/m/n/14.4 .
  []
 
-[28]) [29] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
+[31]
+Underfull \hbox (badness 1577) in paragraph at lines 137--142
+\TU/Times(0)/m/n/14.4 objective topic modeling for exploratory search in tech news”,
+ []
+
+) [32] (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.aux (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/titlepage.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/introduction.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/problem_statement.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/metrics.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/aggregation.aux) (/Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/content/conclusion.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 23852 strings out of 493005
- 499060 string characters out of 6134597
- 663993 words of memory out of 5000000
- 27353 multiletter control sequences out of 15000+600000
- 10825 words of font info for 63 fonts, out of 8000000 for 9000
+ 23941 strings out of 493005
+ 501084 string characters out of 6134597
+ 667197 words of memory out of 5000000
+ 27438 multiletter control sequences out of 15000+600000
+ 10833 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,10n,66p,10384b,282s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,11n,78p,10384b,714s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (30 pages).
+Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (33 pages).
