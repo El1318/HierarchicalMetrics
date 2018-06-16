@@ -36,4 +36,4 @@
 \contentsline {subsection}{\numberline {4.4.2}Фильтрация коллекции Хабрахабра}{26}
 \contentsline {subsection}{\numberline {4.4.3}Дополнение модели ПостНауки отфильтрованной коллекцией Хабрахабра}{27}
 \contentsline {section}{\numberline {4.5}Сравнение алгоритмов}{28}
-\contentsline {chapter}{\numberline {5}Заключение}{31}
+\contentsline {chapter}{\numberline {5}Заключение}{32}
