@@ -9,58 +9,60 @@ A level-1 auxiliary file: content/aggregation.aux
 A level-1 auxiliary file: content/conclusion.aux
 The style file: ieeepes.bst
 Database file #1: ../bibliography/aggregation.bib
+Warning--I'm ignoring ARTM1's extra "booktitle" field
+--line 248 of file ../bibliography/aggregation.bib
 Warning--I'm ignoring hPAM's extra "booktitle" field
---line 280 of file ../bibliography/aggregation.bib
+--line 297 of file ../bibliography/aggregation.bib
 Database file #2: ../bibliography/metrics.bib
-Repeated entry---line 186 of file ../bibliography/metrics.bib
+Repeated entry---line 207 of file ../bibliography/metrics.bib
  : @article{Hang2011
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 304 of file ../bibliography/metrics.bib
+Repeated entry---line 325 of file ../bibliography/metrics.bib
  : @article{Lau2014
  :                 ,
 I'm skipping whatever remains of this entry
 Warning--empty booktitle in hLDA
 Warning--empty journal in hARTM
-You've used 22 entries,
+You've used 35 entries,
             1821 wiz_defined-function locations,
-            612 strings with 8554 characters,
-and the built_in function-call counts, 5246 in all, are:
-= -- 457
-> -- 237
-< -- 8
-+ -- 87
-- -- 65
-* -- 385
-:= -- 810
-add.period$ -- 26
-call.type$ -- 22
-change.case$ -- 22
+            695 strings with 10899 characters,
+and the built_in function-call counts, 8488 in all, are:
+= -- 743
+> -- 401
+< -- 12
++ -- 145
+- -- 110
+* -- 661
+:= -- 1325
+add.period$ -- 44
+call.type$ -- 35
+change.case$ -- 35
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 266
-empty$ -- 516
-format.name$ -- 65
-if$ -- 1207
+cite$ -- 37
+duplicate$ -- 414
+empty$ -- 821
+format.name$ -- 110
+if$ -- 1937
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 22
-newline$ -- 113
-num.names$ -- 24
-pop$ -- 84
+int.to.str$ -- 35
+missing$ -- 35
+newline$ -- 178
+num.names$ -- 43
+pop$ -- 123
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 135
+skip$ -- 199
 stack$ -- 0
-substring$ -- 241
-swap$ -- 86
-text.length$ -- 8
+substring$ -- 401
+swap$ -- 129
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 47
-width$ -- 24
-write$ -- 240
+while$ -- 79
+width$ -- 37
+write$ -- 384
 (There were 2 error messages)
