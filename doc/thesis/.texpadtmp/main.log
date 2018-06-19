@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  19 JUN 2018 12:46
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  19 JUN 2018 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -983,12 +983,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [3
 
 
-]
-Overfull \hbox (3.63837pt too wide) in paragraph at lines 19--20
-\TU/Times(0)/m/n/14.4 бер иерархии. Предлагаемые метрики основаны на близости между наи-
- []
-
-[4]) [5]
+] [4]) [5]
 \openout2 = `content/problem_statement.aux'.
 
  (./content/problem_statement.tex
@@ -1285,7 +1280,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  23879 strings out of 493005
  499274 string characters out of 6134597
- 668129 words of memory out of 5000000
+ 666129 words of memory out of 5000000
  27378 multiletter control sequences out of 15000+600000
  10825 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

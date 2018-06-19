@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {3.1.1}Метрики на основе лингвистической близости}{14}
 \contentsline {subsection}{\numberline {3.1.2}Метрики на основе вероятностной близости}{15}
 \contentsline {section}{\numberline {3.2}Асессорская разметка ребер иерархии}{15}
-\contentsline {subsection}{\numberline {3.2.1}Описанные данных и моделей}{16}
+\contentsline {subsection}{\numberline {3.2.1}Описание данных и моделей}{16}
 \contentsline {subsection}{\numberline {3.2.2}Постановка задачи для асессоров}{16}
 \contentsline {subsection}{\numberline {3.2.3}Контроль качества}{17}
 \contentsline {subsection}{\numberline {3.2.4}Результаты}{17}
