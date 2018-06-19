@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  16 JUN 2018 11:41
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  19 JUN 2018 09:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1259,12 +1259,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 23946 strings out of 493005
- 501191 string characters out of 6134597
- 667209 words of memory out of 5000000
- 27441 multiletter control sequences out of 15000+600000
- 10833 words of font info for 64 fonts, out of 8000000 for 9000
+ 23869 strings out of 493005
+ 499359 string characters out of 6134597
+ 666064 words of memory out of 5000000
+ 27365 multiletter control sequences out of 15000+600000
+ 10825 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 66i,11n,78p,10384b,714s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,11n,66p,10384b,286s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/maria.selezniova/lib/Rysearch/paper/bachelor_thesis/HierarchicalMetrics/doc/thesis/.texpadtmp/main.pdf (37 pages).
