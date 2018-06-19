@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  19 JUN 2018 12:21
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.2)  19 JUN 2018 12:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1232,11 +1232,6 @@ Underfull \hbox (badness 1389) in paragraph at lines 89--93
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 101--105
-[]\TU/Times(0)/m/n/14.4 NA Chirkova and KV Vorontsov,  “Additive regularization for
- []
-
-
 Underfull \hbox (badness 1377) in paragraph at lines 114--119
 \TU/Times(0)/m/n/14.4 on Distributed Word Representations”,  in \TU/Times(0)/m/it/14.4 Proceedings of the
  []
@@ -1262,8 +1257,8 @@ Underfull \hbox (badness 4713) in paragraph at lines 156--161
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 182--187
-\TU/Times(0)/m/n/14.4 Hierarchies from Texts with Hierarchical Dirichlet Processes
+Underfull \hbox (badness 4492) in paragraph at lines 182--187
+[]\TU/Times(0)/m/n/14.4 Elias Zavitsanos, Georgios Paliouras, and George A. Vouros,
  []
 
 [37]

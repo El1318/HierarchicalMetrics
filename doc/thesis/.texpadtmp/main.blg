@@ -26,43 +26,43 @@ Warning--empty booktitle in hLDA
 Warning--empty journal in hARTM
 You've used 35 entries,
             1821 wiz_defined-function locations,
-            695 strings with 10899 characters,
-and the built_in function-call counts, 8488 in all, are:
-= -- 743
-> -- 401
+            697 strings with 10875 characters,
+and the built_in function-call counts, 8572 in all, are:
+= -- 754
+> -- 398
 < -- 12
-+ -- 145
-- -- 110
-* -- 661
-:= -- 1325
++ -- 144
+- -- 109
+* -- 672
+:= -- 1333
 add.period$ -- 44
 call.type$ -- 35
 change.case$ -- 35
 chr.to.int$ -- 0
 cite$ -- 37
-duplicate$ -- 414
-empty$ -- 821
-format.name$ -- 110
-if$ -- 1937
+duplicate$ -- 415
+empty$ -- 832
+format.name$ -- 109
+if$ -- 1958
 int.to.chr$ -- 0
 int.to.str$ -- 35
 missing$ -- 35
 newline$ -- 178
 num.names$ -- 43
-pop$ -- 123
+pop$ -- 122
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 199
+skip$ -- 198
 stack$ -- 0
-substring$ -- 401
+substring$ -- 428
 swap$ -- 129
 text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 79
+while$ -- 80
 width$ -- 37
-write$ -- 384
+write$ -- 385
 (There were 2 error messages)

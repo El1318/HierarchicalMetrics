@@ -13,7 +13,7 @@ David~M. Blei and John~D. Lafferty,
   jun 2007.
 
 \bibitem{Chaney2012}
-Ajb Chaney and Dm~Blei,
+A.~J.~B. Chaney and D.~M. Blei,
 \newblock ``{Visualizing Topic Models.}'',
 \newblock {\em Icwsm}, 2012.
 
@@ -98,7 +98,7 @@ David~M. Mimno, Wei~Li 0010, and Andrew McCallum,
   International Conference Proceeding Series}, pp. 633--640, ACM.
 
 \bibitem{hARTM}
-NA~Chirkova and KV~Vorontsov,
+N.~A. Chirkova and K.~V. Vorontsov,
 \newblock ``Additive regularization for hierarchical multimodal topic
   modeling'',
 \newblock 2016.
@@ -160,7 +160,7 @@ Oleksandr Frei and Murat Apishev,
   January 2017.
 
 \bibitem{Chemudugunta2006}
-C~Chemudugunta, P~Smyth, and M~Steyvers,
+C.~Chemudugunta, P.~Smyth, and M.~Steyvers,
 \newblock ``{Modeling general and specific aspects of documents with a
   probabilistic topic model}'',
 \newblock {\em Nips}, 2006.
@@ -179,11 +179,11 @@ Khoat Than and Tu~Bao Ho,
   Bioinformatics)}, 2012.
 
 \bibitem{hHDP}
-Elias Zavitsanos, Paliourg@iit~Demokritos Gr, George~A Vouros, and
-  Georgev@aegean Gr,
+Elias Zavitsanos, Georgios Paliouras, and George~A. Vouros,
 \newblock ``{Non-Parametric Estimation of Topic Hierarchies from Texts with
-  Hierarchical Dirichlet Processes Georgios Paliouras}'',
-\newblock {\em Journal of Machine Learning Research}, 2011.
+  Hierarchical Dirichlet Processes}'',
+\newblock {\em Journal of Machine Learning Research}, vol. 12, pp. 2749--2775,
+  2011.
 
 \bibitem{Pujara2012}
 Jay Pujara and Peter Skomoroch,
